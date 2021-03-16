@@ -8,5 +8,5 @@ jQuery(function($) {
 function myFunction() {
   var x = document.getElementById("intro");
   x.style.fontSize = "25px"; 
-  x.style.color = "red"; 
+  x.style.color = "#334d4d"; 
 }
