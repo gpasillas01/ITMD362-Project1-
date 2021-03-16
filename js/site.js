@@ -3,3 +3,6 @@ jQuery(function($) {
   $('html').removeClass('nojs');
   $('html').addClass('hasjs');
 });
+
+
+button type="button" onclick="myFunction()">Try it;
