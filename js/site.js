@@ -6,7 +6,7 @@ jQuery(function($) {
 
 
 function myFunction() {
-  var x = document.getElementById("demo");
+  var x = document.getElementById("intro");
   x.style.fontSize = "25px"; 
   x.style.color = "red"; 
 }
